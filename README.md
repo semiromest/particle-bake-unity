@@ -38,3 +38,11 @@ You can use this tool to:
 Optimize complex particle effects by converting them to meshes.
 Pre-render particles for use in mobile or performance-critical projects.
 Capture particle system visuals for use in UI, promotional materials, or as part of a sprite sheet.
+
+Example : 
+
+![image](https://github.com/user-attachments/assets/48f5668f-2355-4ba7-b540-24e825ae4fa8)
+
+![BakedParticleTexture](https://github.com/user-attachments/assets/5fed38b1-3673-4c15-9733-db2032a3ac4d)
+
+
